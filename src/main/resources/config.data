@@ -1,0 +1,15 @@
+
+{
+  "Messages": {
+    "region-creation": "&fYou created region &6{0}",
+    "region-laced-creation": "&fYou created &elaced &fregion &6{0}",
+    "region-creation-verify": "&fCreate a region here?",
+    "region-creation-verify-button": "&a[Ok]",
+    "region-creation-laced-verify": "You own another region here..&fDo you want to create a &elaced &fregion?",
+    "region-creation-laced-verify-button": "&a[Ok]",
+    "region-creation-laced-display-verify": "&bShows the intersecting region (in blue) and the selection (in red).",
+    "region-creation-laced-display-verify-button": "&3[Show Me]"
+  },
+
+  "Version": "1.0.0"
+}

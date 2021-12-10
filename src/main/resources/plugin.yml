@@ -1,0 +1,6 @@
+name: myRegions
+version: ${project.version}
+main: com.github.sanctum.regions.Regions
+api-version: 1.13
+depend: [ Labyrinth ]
+authors: [ Hempfest ]
